@@ -1,5 +1,4 @@
-Projectiles and SHM Final
-
+Projectiles and SHM
 Background: This was my A-level project I made in 2016. I haven't made many changes to it since then.
 
 Language: Visual Basic
