@@ -1,0 +1,459 @@
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10Lewismar\Files\Visual Studio 2013\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+D:\Projectiles and SHM 07.11.15\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+D:\Projectiles and SHM\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 22.11.15\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 04.01.16\Projectiles and SHM 12.11.15\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmPMFormula.resources
+C:\Users\Voros\Documents\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmSHMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmPMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmSHMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 10.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmPMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmSHMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 11.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmPMFormula.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmSHMFormula.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 15.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmPMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmSHMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 18.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmPMFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmSHMFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadBallThrowVars.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadBallThrowVars.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmPMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmSHMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 24.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadBallThrowVars.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmPMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmSHMFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 29.01.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 01.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 03.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 07.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 12.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 20.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 21.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmBallThrowFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM 25.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmFormula.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+\\sch5409.poole.sch.uk\public\HomeDirs\Students\10\10LewisMar\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmFormula.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM 28.02.16\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM Final (04.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmFormula.resources
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+D:\Projectiles and SHM Final (04.03)\Projectiles and SHM Final (04.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmFormula.resources
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+D:\Projectiles and SHM Final (07.03)\Projectiles and SHM Final (07.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM Final (08.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+U:\Files\6th Form\Computing\COMP 4\Backups\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe.config
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.exe
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.pdb
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\bin\Debug\Projectiles and SHM.xml
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbprojResolveAssemblyReference.cache
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmFormula.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Form1.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.frmLoadVariables.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles_and_SHM.Resources.resources
+C:\Users\Voros\Documents\Visual Studio 2015\Projects\Projectiles and SHM Final (08.03)\Projectiles and SHM\obj\Debug\Projectiles and SHM.vbproj.GenerateResource.Cache
